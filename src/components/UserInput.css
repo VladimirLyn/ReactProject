@@ -1,0 +1,15 @@
+.Input{
+    height: 5vh;
+    width: 80vw;
+    border-color: #261a2d;
+    align-items: center;
+    justify-content: center;
+}
+.MessegeBox{
+    height: 5vh;
+    width:  79vw;;
+
+     border-radius: 13px;
+     border-color:#261a2d;
+     background-color: #271f2b;
+}

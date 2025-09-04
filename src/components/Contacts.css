@@ -1,0 +1,36 @@
+.Contacts{
+    align-items: flex-start;
+    justify-content: left;
+    width: 20vw;
+    height: 100vh;
+    padding: 0px;
+}
+.ContactsSearch{
+     width: 15vw;
+     height: 6vh;
+     border-radius: 13px;
+     border-color:#261a2d;
+     background-color: #271f2b;
+}
+.ContactList{
+padding-top: 0.1vh;
+    padding-left: 0px;
+  width: 15vw;
+  height: 20vh;
+}
+.ContactInList{
+    width: 19.5vw;
+    height: 6.53vh;
+    background-color: #261a2d;
+     border: solid;
+ border-radius: 13px;
+     border-color:#261a2d;
+}
+.Settings{
+    display: flex;
+    width: 5vh;
+    height: 5vh;
+}
+.Form{
+    display: flex;
+}
