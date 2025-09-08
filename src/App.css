@@ -5,6 +5,10 @@
   display: flex;
 }
 
+/* div {
+    margin: 0px;
+} */
+
 .logo {
   height: 6em;
   padding: 1.5em;
